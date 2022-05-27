@@ -1,0 +1,104 @@
+id: f3d4354590094577ba393ae404068955
+annotation_type: Segment
+revision: '00001'
+annotations:
+  a563fd8273724cab930af1b1543aa0e2:
+    span:
+      start: 0
+      end: 93
+    metadata: {}
+  8be4b13231cc4957affea5be5a237b64:
+    span:
+      start: 96
+      end: 192
+    metadata: {}
+  2dba0d739ee845f6ba1c32377d0eb08c:
+    span:
+      start: 195
+      end: 282
+    metadata: {}
+  329e77f02f9f4690bae9ff423836ca11:
+    span:
+      start: 285
+      end: 373
+    metadata: {}
+  bac722508b594e79ab5d8b55e85b1b47:
+    span:
+      start: 376
+      end: 465
+    metadata: {}
+  5a85bbb7b77b48f182255465b1955bd8:
+    span:
+      start: 468
+      end: 566
+    metadata: {}
+  2e21b9322249458797016ca4bb4976e5:
+    span:
+      start: 569
+      end: 661
+    metadata: {}
+  37c23e0f85924b91a229c5c64646cd28:
+    span:
+      start: 664
+      end: 753
+    metadata: {}
+  0bdfd44fb1d64b358b627b2795f9286b:
+    span:
+      start: 756
+      end: 849
+    metadata: {}
+  2c9650eab1ff45d2b47c2758166ea2bd:
+    span:
+      start: 852
+      end: 943
+    metadata: {}
+  d0fce911ded94b178df84b5ef62bd28d:
+    span:
+      start: 946
+      end: 1038
+    metadata: {}
+  9d2dcfacfa1d41a293271a9899e76671:
+    span:
+      start: 1041
+      end: 1132
+    metadata: {}
+  9a15b43c8f404bd985baf4e9a921dcb8:
+    span:
+      start: 1135
+      end: 1223
+    metadata: {}
+  3e259e984bf74b14af72ac1edf0787f5:
+    span:
+      start: 1226
+      end: 1320
+    metadata: {}
+  7fc54945a9c94147a43e576f4102efcb:
+    span:
+      start: 1323
+      end: 1419
+    metadata: {}
+  bd009be7b56a4d3d9da55aba5116f12a:
+    span:
+      start: 1422
+      end: 1518
+    metadata: {}
+  45f37033bdaa466da2c369d605355302:
+    span:
+      start: 1521
+      end: 1618
+    metadata: {}
+  84994ba1a6ba4a4c9e46455a5505a5e5:
+    span:
+      start: 1621
+      end: 1710
+    metadata: {}
+  41e20aee6d6940b68cb2b04c76e7a738:
+    span:
+      start: 1713
+      end: 1801
+    metadata: {}
+  c9b86005349546608d5aa87dcff1f9ce:
+    span:
+      start: 1804
+      end: 1896
+    metadata: {}
